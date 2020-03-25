@@ -1,16 +1,10 @@
 # my_gas_cycle
 
-A new Flutter project.
+A project developmented to mothers of home, who need to track their consumption records of gases. The application can show the next date of gas to buy in a monthly period. You can too add new buys to your track consumption.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1) At first moment, you must to install or initialize android devices or emulators.
+2) Execute to your console "flutter run".
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For new contribuitors, please send a email to "@gmail.com"
